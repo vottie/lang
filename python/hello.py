@@ -1,4 +1,7 @@
-def execute():
-    print "hello"
+class Hello:
+    def execute(self):
+        print "hello"
 
-execute()
+
+h = Hello()
+h.execute()
