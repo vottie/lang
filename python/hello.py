@@ -1,2 +1,4 @@
-print "hello"
+def execute():
+    print "hello"
 
+execute()
