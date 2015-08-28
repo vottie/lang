@@ -12,5 +12,3 @@ class CSVReader:
                 print(row)
 
 
-c = CSVReader('sample.csv')
-c.parse()

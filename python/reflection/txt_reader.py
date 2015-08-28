@@ -11,5 +11,5 @@ class TxtReader:
             line = file.readline()
         file.close
 
-t = TxtReader('sample.txt')
-t.parse()
+#t = TxtReader('sample.txt')
+#t.parse()
